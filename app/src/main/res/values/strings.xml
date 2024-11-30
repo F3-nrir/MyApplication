@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calendario Odoo</string>
+    <string name="login_button">Iniciar Sesi&#243;n</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="username_hint">Nombre de Usuario</string>
+    <string name="database_hint">Nombre de la BD</string>
+    <string name="url_hint">Dominio del Odoo</string>
+    <string name="app_logo">odoo_logo</string>
+</resources>
